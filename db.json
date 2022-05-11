@@ -1,0 +1,191 @@
+
+
+
+
+
+    
+
+{
+
+    "student" : [
+
+        {
+            "id" : 1,
+            "name" : "Saddam Hossen",
+            "className" : "Five",
+            "Roll" : 3,
+            "gender" : "Male",
+            "age" : 25,
+            "location" : "Gaibandha"
+        },
+        {
+            "id" : 2,
+            "name" : "Anamul Haque",
+            "className" : "Eight",
+            "Roll" : 6,
+            "gender" : "Male",
+            "age" : 24,
+            "location" : "Rangpur"
+        },
+        {
+            "id" : 3,
+            "name" : "Nazmul Haque",
+            "className" : "Seven",
+            "Roll" : 2,
+            "gender" : "Male",
+            "age" : 22,
+            "location" : "Dinajpur"
+        },
+        {
+            "id" : 4,
+            "name" : "Mamunur Roshid",
+            "className" : "Ten",
+            "Roll" : 4,
+            "gender" : "Male",
+            "age" : 34,
+            "location" : "Thagurgoan"
+        },
+        {
+            "id" : 5,
+            "name" : "Parvin Akhter",
+            "className" : "Four",
+            "Roll" : 4,
+            "gender" : "Female",
+            "age" : 34,
+            "location" : "Bogura"
+        },
+        {
+            "id" : 6,
+            "name" : "Eity Akhter",
+            "className" : "Ten",
+            "Roll" : 2,
+            "gender" : "Female",
+            "age" : 23,
+            "location" : "Thagurgoan"
+        },
+        {
+            "id" : 7,
+            "name" : "Jemy Akhter",
+            "className" : "Four",
+            "Roll" : 3,
+            "gender" : "Female",
+            "age" : 21,
+            "location" : "Thagurgoan"
+        },
+        {
+            "id" : 8,
+            "name" : "Sidrat Babu",
+            "className" : "One",
+            "Roll" : 1,
+            "gender" : "Male",
+            "age" : 10,
+            "location" : "Gaibandha"
+        },
+        {
+            "id" : 9,
+            "name" : "Nazima Akhter",
+            "className" : "Ten",
+            "Roll" : 2,
+            "gender" : "Female",
+            "age" : 18,
+            "location" : "Gaibandha"
+        },
+        {
+            "id" : 10,
+            "name" : "Rayhan Bapary",
+            "className" : "Nine",
+            "Roll" : 3,
+            "gender" : "Male",
+            "age" : 19,
+            "location" : "Gaibandha"
+        }
+    ],
+
+
+    "teachers" : [
+        {
+            "id" : 1,
+            "name" : "Saydar rahman",
+            "profession" : "teacher",
+            "age" : 32,
+            "gender" : "Male",
+            "location" : "Bogura"
+        },
+        {
+            "id" : 2,
+            "name" : "Moffazol Hosain",
+            "profession" : "teacher",
+            "age" : 43,
+            "gender" : "Male",
+            "location" : "Gaibandha"
+        },
+        {
+            "id" : 3,
+            "name" : "Unus Ali",
+            "profession" : "teacher",
+            "age" : 44,
+            "gender" : "Male",
+            "location" : "Bogura"
+        },
+        {
+            "id" : 4,
+            "name" : "Anarul Islam",
+            "profession" : "teacher",
+            "age" : 45,
+            "gender" : "Male",
+            "location" : "Gaibandha"
+        },
+        {
+            "id" : 5,
+            "name" : "Azim-uddin",
+            "profession" : "teacher",
+            "age" : 53,
+            "gender" : "Male",
+            "location" : "Bogura"
+        },
+        {
+            "id" : 6,
+            "name" : "Anisur Islam",
+            "profession" : "teacher",
+            "age" : 38,
+            "gender" : "Male",
+            "location" : "Dinajpur"
+        },
+        {
+            "id" : 7,
+            "name" : "Amena Begum",
+            "profession" : "teacher",
+            "age" : 44,
+            "gender" : "Female",
+            "location" : "Bogura"
+        },
+        {
+            "id" : 8,
+            "name" : "Tasnin Banu",
+            "profession" : "teacher",
+            "age" : 46,
+            "gender" : "Female",
+            "location" : "Gaibandha"
+        },
+        {
+            "id" : 9,
+            "name" : "Rofikul Islam",
+            "profession" : "teacher",
+            "age" : 47,
+            "gender" : "Male",
+            "location" : "Bogura"
+        },
+        {
+            "id" : 10,
+            "name" : "Liton Akando",
+            "profession" : "teacher",
+            "age" : 42,
+            "gender" : "Male",
+            "location" : "Gaibandha"
+        }
+    ]
+
+}
+
+
+
